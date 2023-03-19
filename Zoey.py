@@ -48,7 +48,7 @@ def graficar_funcion(funcion, derivada_o_integral):
     # Función para resolver inecuaciones
 def resolver_inecuaciones():
     x = symbols('x')
-    inecuacion = input('Inequality: ')
+    inecuacion = input('Inequality: (Sintaxis example: x**2 + 2*x + 1 > 0): ')
     solucion = solve(inecuacion)
     print('Solution:', solucion)
     graficar_inecuacion(inecuacion)
