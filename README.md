@@ -2,7 +2,7 @@
 Zoey is a math framework written in python made for engineers looking for a quick solution to various infinitesimal calculus problems.
 Among its options are 5 main options.
 
-/n Derivatives
+Derivatives
 integral
 limits
 simplex method
